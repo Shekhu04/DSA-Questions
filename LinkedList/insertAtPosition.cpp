@@ -55,6 +55,7 @@ void print(Node* &head) {
         temp = temp->next;
     }
     cout << endl;
+    cout << endl;
 }
 
 int main(){
