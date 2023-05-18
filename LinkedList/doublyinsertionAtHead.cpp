@@ -6,6 +6,7 @@ class Node {
     int data;
     Node* prev;
     Node* next;
+    Node* new;
 
     //constructor
     Node(int d){
