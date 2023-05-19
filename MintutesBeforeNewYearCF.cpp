@@ -12,6 +12,7 @@ int main()
         {
         d=1440-((a*60)+b);
         cout<<d<<endl;
+        cout << endl;
         }
         else 
         cout<<1440-b<<endl;
