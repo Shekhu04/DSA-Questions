@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 int main(){
-    int l,b,x,y;
+    int l,b,x,y,z;
     cin>>l>>b;
     x=l*b;
     y=2*(l+b);
