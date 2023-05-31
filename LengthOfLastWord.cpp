@@ -4,6 +4,7 @@ public:
         int n=s.length();
         int c=0;
         int f=0;
+        int d=0;
         for(int i=n-1;i>=0;i--){
             if(s[i]==' ' && f==0){
                 continue;
