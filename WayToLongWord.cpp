@@ -16,6 +16,7 @@ int main()
         {
         m=k-2;
         cout<<s[0]<<m<<s[k-1]<<endl;
+         cout << endl;
         }
         else
         cout<<s<<endl;
