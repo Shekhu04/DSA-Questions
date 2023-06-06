@@ -14,6 +14,7 @@ int main() {
 	    }
 	    else {
 	        cout<<7-b<<endl;
+		    cout << endl;
 	    }
 	    
 	    
