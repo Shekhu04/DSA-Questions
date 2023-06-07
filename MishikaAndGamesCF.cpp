@@ -12,7 +12,7 @@ int main()
         if(x>y) c++;
         else if(y>x) d++;
         else e++;
-        cout << endl;
+
     }
 if(c>d) cout<<"Mishka"<<endl;
 else if(d>c) cout<<"Chris"<<endl;
